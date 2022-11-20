@@ -3,7 +3,7 @@ import 'package:open_meteo_api/src/generated/location.pb.dart';
 import 'package:test/test.dart';
 
 void main() {
-  group('Location De-Serialization', () {
+  group('fromBuffer', () {
     late List<int> file;
     setUp(() {
       file = File('test_resources/location_search_binary').readAsBytesSync();

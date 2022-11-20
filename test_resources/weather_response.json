@@ -1,0 +1,80 @@
+{
+  "latitude": 52.52,
+  "longitude": 13.419998,
+  "generationtime_ms": 0.6690025329589844,
+  "utc_offset_seconds": 3600,
+  "timezone": "Europe/Berlin",
+  "timezone_abbreviation": "CET",
+  "elevation": 38,
+  "current_weather": {
+    "temperature": -0.2,
+    "windspeed": 9.5,
+    "winddirection": 241,
+    "weathercode": 77,
+    "time": "2022-11-20T02:00"
+  },
+  "daily_units": {
+    "time": "iso8601",
+    "weathercode": "wmo code",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "sunrise": "iso8601",
+    "sunset": "iso8601"
+  },
+  "daily": {
+    "time": [
+      "2022-11-20",
+      "2022-11-21",
+      "2022-11-22",
+      "2022-11-23",
+      "2022-11-24",
+      "2022-11-25",
+      "2022-11-26"
+    ],
+    "weathercode": [
+      77,
+      3,
+      61,
+      3,
+      61,
+      61,
+      45
+    ],
+    "temperature_2m_max": [
+      0.1,
+      0.1,
+      1.6,
+      4.8,
+      7.1,
+      7.1,
+      9.5
+    ],
+    "temperature_2m_min": [
+      -1.6,
+      -3.1,
+      -2.7,
+      0.9,
+      0.8,
+      2.6,
+      2.8
+    ],
+    "sunrise": [
+      "2022-11-20T07:35",
+      "2022-11-21T07:36",
+      "2022-11-22T07:38",
+      "2022-11-23T07:39",
+      "2022-11-24T07:41",
+      "2022-11-25T07:43",
+      "2022-11-26T07:44"
+    ],
+    "sunset": [
+      "2022-11-20T16:09",
+      "2022-11-21T16:07",
+      "2022-11-22T16:06",
+      "2022-11-23T16:05",
+      "2022-11-24T16:04",
+      "2022-11-25T16:03",
+      "2022-11-26T16:02"
+    ]
+  }
+}
